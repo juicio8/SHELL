@@ -1,0 +1,5 @@
+//main with argc and argv
+//while true == a continuous loop
+
+//a size_t byte to store return value from getline
+//a token char = tokrnize // strtok to divide
